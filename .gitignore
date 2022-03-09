@@ -1,0 +1,10 @@
+.history
+origin_env
+src/main/__pycache__
+src/main/entity/__pycache__
+src/main/service/__pycache__
+src/main/util/__pycache__
+src/main/util/enums/__pycache__
+src/main/entity/__pycache__
+src/main/validation/__pycache__
+src/test/__pycache__
